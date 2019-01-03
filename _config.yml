@@ -81,3 +81,9 @@ deploy:
   type: git
   repo: https://github.com/WYM/wym.github.io.git
   branch: master
+
+algolia:
+  applicationID: Q9846QI5S8
+  apiKey: 48a5e7dea689724df4e98144daefe2a7
+  indexName: hexo-search
+  chunkSize: 5000
